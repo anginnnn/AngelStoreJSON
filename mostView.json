@@ -1,123 +1,115 @@
 [
+  
   {
-    "id": 3,
-    "nome": "Samsung Galaxy S23 Ultra",
-    "preco": 4899.99,
-    "descricao": "O Samsung Galaxy S23 combina design sustentável com desempenho eficiente. À prova d'água e poeira, o smartphone possui Snapdragon 8 Gen 2 para uso fluido em redes sociais e jogos. O Smart Switch facilita a transferência de dados, inclusive entre diferentes sistemas operacionais. A bateria adaptativa e o display Dynamic AMOLED 2X de 120Hz proporcionam uma experiência de uso otimizada. As câmeras traseiras de até 50 MP com OIS e Zoom Digital de 30x oferecem fotos profissionais, enquanto a câmera frontal de 12 MP garante selfies nítidas. Recursos como Nightography e Super Night Solution aprimoram a qualidade em ambientes noturnos.",
-    "imagem": "./s23u.jpg",
-    "avaliacao": 3.7
+    "id": 1,
+    "nome": "Processador Intel Core I9-10900F",
+    "preco": 1699.99,
+    "descricao": "O processador Intel Core i9-10900F, parte da 10ª geração, destaca-se por seu desempenho aprimorado e recursos inteligentes. Não possui vídeo integrado. A Tecnologia Hyper-Threading Intel proporciona dois segmentos de processamento por núcleo, acelerando tarefas paralelas. A Tecnologia de Virtualização Intel (VT-x) permite que a plataforma funcione como múltiplas plataformas virtuais, melhorando a capacidade de gerenciamento e isolando atividades de computação. Ideal para aumentar a produtividade e proporcionar entretenimento de alta qualidade.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/i9.jpg",
+    "avaliacao": 4.8
   },
   {
     "id": 2,
     "nome": "Monitor 21''",
     "preco": 796.99,
     "descricao": "O Monitor LED de última geração oferece uma experiência visual aprimorada com alta resolução, cores vibrantes e iluminação LED uniforme. Seu design ultrafino e bordas mínimas são ideais para configurações de múltiplos monitores. Com rápida taxa de atualização e tempo de resposta, é perfeito para jogos imersivos. Os modos de ajuste de luz azul garantem conforto visual, enquanto as opções de conectividade versáteis atendem a diversas necessidades. Este monitor combina estilo e funcionalidade para transformar sua estação de trabalho.",
-    "imagem": "./monitor.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/monitor.jpg",
     "avaliacao": 4.1
-  },
-  {
-    "id": 6,
-    "nome": "Teclado mecânico USB",
-    "preco": 523.99,
-    "descricao": "O Teclado Premium combina design elegante e ergonômico com teclas responsivas de perfil baixo, proporcionando uma experiência de digitação suave e silenciosa. A retroiluminação ajustável e a conectividade sem fio oferecem personalização e liberdade de movimento. Recursos adicionais, como teclas de atalho programáveis e durabilidade resistente ao desgaste, tornam-no ideal para produtividade e estilo. Transforme sua estação de trabalho com este teclado que oferece desempenho excepcional.",
-    "imagem": "./teclado.jpg",
-    "avaliacao": 3.9
-  },
-  {
-    "id": 0,
-    "nome": "Iphone 13",
-    "preco": 14999.99,
-    "descricao": "O iPhone 13 oferece uma experiência excepcional com seu design elegante, tela Super Retina XDR e potente chip A15 Bionic. Sua câmera dupla avançada, conectividade 5G e durabilidade fazem dele um dispositivo confiável para capturar momentos especiais. Com recursos como o iOS mais recente e segurança aprimorada, o iPhone 13 é uma fusão de inovação e estilo de vida moderno. Descubra o poder e a elegância neste dispositivo móvel de ponta.",
-    "imagem": "./iphone15.jpg",
-    "avaliacao": 3.5
-  },
-  {
+  },{
     "id": 4,
     "nome": "Fone Bluetooth",
     "preco": 547.82,
     "descricao": "Experimente a liberdade sem fios com nosso Fone de Ouvido Bluetooth moderno. Oferece áudio imersivo, conectividade fácil e design ergonômico para uso confortável em qualquer atividade. Controles intuitivos, bateria de longa duração e cancelamento de ruído garantem uma experiência premium para sua vida ativa. Transforme sua maneira de ouvir música e fazer chamadas com estilo e funcionalidade.",
-    "imagem": "./foneOuvido.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/foneOuvido.jpg",
     "avaliacao": 4.5
-  },
-  {
-    "id": 1,
-    "nome": "Processador Intel Core I9-10900F",
-    "preco": 1699.99,
-    "descricao": "O processador Intel Core i9-10900F, parte da 10ª geração, destaca-se por seu desempenho aprimorado e recursos inteligentes. Não possui vídeo integrado. A Tecnologia Hyper-Threading Intel proporciona dois segmentos de processamento por núcleo, acelerando tarefas paralelas. A Tecnologia de Virtualização Intel (VT-x) permite que a plataforma funcione como múltiplas plataformas virtuais, melhorando a capacidade de gerenciamento e isolando atividades de computação. Ideal para aumentar a produtividade e proporcionar entretenimento de alta qualidade.",
-    "imagem": "./i9.jpg",
-    "avaliacao": 4.8
   },
   {
     "id": 5,
     "nome": "Kit Upgrade PC Black Widow",
     "preco": 1087.48,
     "descricao": "O Kit Upgrade PC Black Widow é uma combinação poderosa, destacando-se por uma placa-mãe robusta da linha Black Widow e um processador Ryzen. Com suporte à mais recente tecnologia, a placa-mãe oferece robustez e elegância, enquanto o processador Ryzen proporciona desempenho excepcional para multitarefa e jogos intensivos. Este kit representa uma entrada direta para uma atualização eficiente e potente, transformando seu computador em uma máquina de alto desempenho.",
-    "imagem": "./kitUp.png",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/kitUp.png",
     "avaliacao": 4.9
   },
   {
-    "id": 11,
-    "nome": "Carregador Mirror Turbo",
-    "preco": 65.89,
-    "descricao": "Conheça o Carregador Turbo Mirror: a revolução na carga rápida. Desenvolvido para proporcionar velocidade máxima de carregamento, este carregador é um aliado essencial para manter seus dispositivos energizados em tempo recorde. Compatível com uma variedade de dispositivos, o Carregador Turbo Mirror oferece praticidade sem sacrificar a eficiência. Sua tecnologia de carregamento inteligente adapta-se às necessidades do seu dispositivo, garantindo uma carga eficaz e segura. Transforme sua experiência de carregamento com o Carregador Turbo Mirror - potência e eficiência em suas mãos.",
-    "imagem": "./carregador.jpg",
-    "avaliacao": 4.8
+    "id": 0,
+    "nome": "Iphone 13",
+    "preco": 14999.99,
+    "descricao": "O iPhone 13 oferece uma experiência excepcional com seu design elegante, tela Super Retina XDR e potente chip A15 Bionic. Sua câmera dupla avançada, conectividade 5G e durabilidade fazem dele um dispositivo confiável para capturar momentos especiais. Com recursos como o iOS mais recente e segurança aprimorada, o iPhone 13 é uma fusão de inovação e estilo de vida moderno. Descubra o poder e a elegância neste dispositivo móvel de ponta.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/iphone15.jpg",
+    "avaliacao": 3.5
   },
   {
-    "id": 8,
-    "nome": "Notebook Elegancy",
-    "preco": 2459.99,
-    "descricao": "Introduzindo nosso Notebook Avançado: potência e portabilidade em um design elegante. Equipado com processador de última geração, oferece desempenho rápido para multitarefa e aplicativos exigentes. A tela de alta resolução proporciona uma experiência visual imersiva, enquanto a construção leve e durável permite fácil transporte. Com recursos como conectividade rápida e bateria de longa duração, este notebook é a escolha ideal para produtividade em movimento. Transforme sua maneira de trabalhar com o equilíbrio perfeito entre desempenho e mobilidade.",
-    "imagem": "./notebook.jpg",
-    "avaliacao": 4.3
+    "id": 3,
+    "nome": "Samsung Galaxy S23 Ultra",
+    "preco": 4899.99,
+    "descricao": "O Samsung Galaxy S23 combina design sustentável com desempenho eficiente. À prova d'água e poeira, o smartphone possui Snapdragon 8 Gen 2 para uso fluido em redes sociais e jogos. O Smart Switch facilita a transferência de dados, inclusive entre diferentes sistemas operacionais. A bateria adaptativa e o display Dynamic AMOLED 2X de 120Hz proporcionam uma experiência de uso otimizada. As câmeras traseiras de até 50 MP com OIS e Zoom Digital de 30x oferecem fotos profissionais, enquanto a câmera frontal de 12 MP garante selfies nítidas. Recursos como Nightography e Super Night Solution aprimoram a qualidade em ambientes noturnos.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/s23u.jpg",
+    "avaliacao": 3.7
   },
   {
-    "id": 13,
-    "nome": "Notebook SLS",
-    "preco": "2745.00",
-    "descricao": "O Notebook SLS é uma elegante expressão de desempenho e estilo da linha SLS. Com um design fino e moderno, este notebook oferece eficiência através de um processador avançado e uma visualização imersiva em alta resolução. Portátil e durável, é ideal para quem está em constante movimento. A linha SLS representa inovação e este notebook não decepciona, proporcionando uma experiência computacional envolvente, unindo forma e função de maneira excepcional. Transforme sua produtividade com o Notebook SLS.",
-    "imagem": "./notebook2.jpg",
-    "avaliacao": 4.4
-  },
-  
-  {
-    "id": 12,
-    "nome": "Videogame Melis SA2",
-    "preco": 647.78,
-    "descricao": "O Videogame Portátil Melis SA2 é a escolha definitiva para entretenimento em movimento. Com um design elegante e controles intuitivos, oferece uma experiência de jogo imersiva. Equipado com uma variedade de jogos emocionantes e gráficos impressionantes, este dispositivo portátil garante diversão ininterrupta. Sua tela vibrante, alto desempenho e bateria de longa duração elevam a experiência de jogo para novos patamares. Transforme seu tempo livre em aventuras virtuais com o Videogame Portátil Melis SA2.",
-    "imagem": "./videogamePort.jpg",
-    "avaliacao": "4.0"
-  },
-  {
-    "id": 9,
-    "nome": "Controle BlueLine",
-    "preco": 499.98,
-    "descricao": "Conheça o Controle Sem Fio blueLine, o parceiro perfeito para sua experiência de entretenimento. Com design ergonômico e tecnologia sem fio avançada, este controle oferece liberdade e conforto inigualáveis. Compatível com uma ampla variedade de dispositivos, o blueLine proporciona uma conexão estável e resposta rápida. Sua durabilidade e bateria de longa duração garantem horas ininterruptas de diversão. Transforme sua forma de jogar com o Controle Sem Fio blueLine - inovação e praticidade em suas mãos.",
-    "imagem": "./controle.jpg",
-    "avaliacao": 4.6
-  },
-  {
-    "id": 15,
-    "nome": "Tablet PinkCall 3",
-    "preco": 2349.99,
-    "descricao": "O Tablet PinkCall 3 combina estilo e desempenho para oferecer uma experiência envolvente. Com tela vibrante e touchscreen responsivo, é ideal para entretenimento, produtividade e comunicação. Equipado com recursos avançados, oferece navegação suave em aplicativos e jogos, enquanto sua conectividade versátil e design leve tornam-no perfeito para uso em movimento. Transforme seu dia a dia com este tablet que une estética moderna à funcionalidade excepcional.",
-    "imagem": "./tablet.jpg",
-    "avaliacao": 4.1
+    "id": 6,
+    "nome": "Teclado mecânico USB",
+    "preco": 523.99,
+    "descricao": "O Teclado Premium combina design elegante e ergonômico com teclas responsivas de perfil baixo, proporcionando uma experiência de digitação suave e silenciosa. A retroiluminação ajustável e a conectividade sem fio oferecem personalização e liberdade de movimento. Recursos adicionais, como teclas de atalho programáveis e durabilidade resistente ao desgaste, tornam-no ideal para produtividade e estilo. Transforme sua estação de trabalho com este teclado que oferece desempenho excepcional.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/teclado.jpg",
+    "avaliacao": 3.9
   },
   {
     "id": 7,
     "nome": "Teclado 100% Mecânico",
     "preco": 149.99,
     "descricao": "O Teclado Mecânico Rústico combina a estética robusta das máquinas de escrever clássicas com a tecnologia moderna. Suas teclas mecânicas oferecem uma resposta tátil única, proporcionando uma experiência de digitação envolvente e sonoramente satisfatória. Construído com materiais duráveis, este teclado adiciona um toque de rusticidade e autenticidade à sua estação de trabalho, capturando a essência da escrita mecânica vintage de maneira moderna e elegante.",
-    "imagem": "./maqEscrever.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/maqEscrever.jpg",
     "avaliacao": 3.2
+  },
+  {
+    "id": 13,
+    "nome": "Notebook SLS",
+    "preco": "2745.00",
+    "descricao": "O Notebook SLS é uma elegante expressão de desempenho e estilo da linha SLS. Com um design fino e moderno, este notebook oferece eficiência através de um processador avançado e uma visualização imersiva em alta resolução. Portátil e durável, é ideal para quem está em constante movimento. A linha SLS representa inovação e este notebook não decepciona, proporcionando uma experiência computacional envolvente, unindo forma e função de maneira excepcional. Transforme sua produtividade com o Notebook SLS.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/notebook2.jpg",
+    "avaliacao": 4.4
+  }, 
+  {
+    "id": 11,
+    "nome": "Carregador Mirror Turbo",
+    "preco": 65.89,
+    "descricao": "Conheça o Carregador Turbo Mirror: a revolução na carga rápida. Desenvolvido para proporcionar velocidade máxima de carregamento, este carregador é um aliado essencial para manter seus dispositivos energizados em tempo recorde. Compatível com uma variedade de dispositivos, o Carregador Turbo Mirror oferece praticidade sem sacrificar a eficiência. Sua tecnologia de carregamento inteligente adapta-se às necessidades do seu dispositivo, garantindo uma carga eficaz e segura. Transforme sua experiência de carregamento com o Carregador Turbo Mirror - potência e eficiência em suas mãos.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/carregador.jpg",
+    "avaliacao": 4.8
+  },
+  {
+    "id": 9,
+    "nome": "Controle BlueLine",
+    "preco": 499.98,
+    "descricao": "Conheça o Controle Sem Fio blueLine, o parceiro perfeito para sua experiência de entretenimento. Com design ergonômico e tecnologia sem fio avançada, este controle oferece liberdade e conforto inigualáveis. Compatível com uma ampla variedade de dispositivos, o blueLine proporciona uma conexão estável e resposta rápida. Sua durabilidade e bateria de longa duração garantem horas ininterruptas de diversão. Transforme sua forma de jogar com o Controle Sem Fio blueLine - inovação e praticidade em suas mãos.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/controle.jpg",
+    "avaliacao": 4.6
+  },
+  {
+    "id": 8,
+    "nome": "Notebook Elegancy",
+    "preco": 2459.99,
+    "descricao": "Introduzindo nosso Notebook Avançado: potência e portabilidade em um design elegante. Equipado com processador de última geração, oferece desempenho rápido para multitarefa e aplicativos exigentes. A tela de alta resolução proporciona uma experiência visual imersiva, enquanto a construção leve e durável permite fácil transporte. Com recursos como conectividade rápida e bateria de longa duração, este notebook é a escolha ideal para produtividade em movimento. Transforme sua maneira de trabalhar com o equilíbrio perfeito entre desempenho e mobilidade.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/notebook.jpg",
+    "avaliacao": 4.3
+  },
+  {
+    "id": 12,
+    "nome": "Videogame Melis SA2",
+    "preco": 647.78,
+    "descricao": "O Videogame Portátil Melis SA2 é a escolha definitiva para entretenimento em movimento. Com um design elegante e controles intuitivos, oferece uma experiência de jogo imersiva. Equipado com uma variedade de jogos emocionantes e gráficos impressionantes, este dispositivo portátil garante diversão ininterrupta. Sua tela vibrante, alto desempenho e bateria de longa duração elevam a experiência de jogo para novos patamares. Transforme seu tempo livre em aventuras virtuais com o Videogame Portátil Melis SA2.",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/videogamePort.jpg",
+    "avaliacao": "4.0"
   },
   {
     "id": 14,
     "nome": "Camera MirrorBlack-V2",
     "preco": "1234.56",
     "descricao": "A Câmera MirrorBlack-V2 representa a vanguarda em captura de imagens, combinando design elegante com tecnologia avançada. Com resolução excepcional, sistema de foco preciso e recursos inovadores, esta câmera oferece qualidade impressionante em fotos e vídeos. Seja para uso profissional ou momentos cotidianos, a MirrorBlack-V2 é uma ferramenta essencial, unindo estilo e desempenho extraordinário em cada clique.",
-    "imagem": "./camera.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/camera.jpg",
     "avaliacao": 3.8
   }
+  
 ]

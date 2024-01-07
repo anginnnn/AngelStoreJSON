@@ -4,7 +4,7 @@
     "nome": "Monitor 21''",
     "preco": 796.99,
     "descricao": "O Monitor LED de última geração oferece uma experiência visual aprimorada com alta resolução, cores vibrantes e iluminação LED uniforme. Seu design ultrafino e bordas mínimas são ideais para configurações de múltiplos monitores. Com rápida taxa de atualização e tempo de resposta, é perfeito para jogos imersivos. Os modos de ajuste de luz azul garantem conforto visual, enquanto as opções de conectividade versáteis atendem a diversas necessidades. Este monitor combina estilo e funcionalidade para transformar sua estação de trabalho.",
-    "imagem": "./monitor.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/monitor.jpg",
     "avaliacao": 4.1
   },
   {
@@ -12,7 +12,7 @@
     "nome": "Fone Bluetooth",
     "preco": 547.82,
     "descricao": "Experimente a liberdade sem fios com nosso Fone de Ouvido Bluetooth moderno. Oferece áudio imersivo, conectividade fácil e design ergonômico para uso confortável em qualquer atividade. Controles intuitivos, bateria de longa duração e cancelamento de ruído garantem uma experiência premium para sua vida ativa. Transforme sua maneira de ouvir música e fazer chamadas com estilo e funcionalidade.",
-    "imagem": "./foneOuvido.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/foneOuvido.jpg",
     "avaliacao": 4.5
   },
   {
@@ -20,7 +20,7 @@
     "nome": "Processador Intel Core I9-10900F",
     "preco": 1699.99,
     "descricao": "O processador Intel Core i9-10900F, parte da 10ª geração, destaca-se por seu desempenho aprimorado e recursos inteligentes. Não possui vídeo integrado. A Tecnologia Hyper-Threading Intel proporciona dois segmentos de processamento por núcleo, acelerando tarefas paralelas. A Tecnologia de Virtualização Intel (VT-x) permite que a plataforma funcione como múltiplas plataformas virtuais, melhorando a capacidade de gerenciamento e isolando atividades de computação. Ideal para aumentar a produtividade e proporcionar entretenimento de alta qualidade.",
-    "imagem": "./i9.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/i9.jpg",
     "avaliacao": 4.8
   },
   {
@@ -28,7 +28,7 @@
     "nome": "Iphone 13",
     "preco": 14999.99,
     "descricao": "O iPhone 13 oferece uma experiência excepcional com seu design elegante, tela Super Retina XDR e potente chip A15 Bionic. Sua câmera dupla avançada, conectividade 5G e durabilidade fazem dele um dispositivo confiável para capturar momentos especiais. Com recursos como o iOS mais recente e segurança aprimorada, o iPhone 13 é uma fusão de inovação e estilo de vida moderno. Descubra o poder e a elegância neste dispositivo móvel de ponta.",
-    "imagem": "./iphone15.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/iphone15.jpg",
     "avaliacao": 3.5
   },
   {
@@ -36,7 +36,7 @@
     "nome": "Kit Upgrade PC Black Widow",
     "preco": 1087.48,
     "descricao": "O Kit Upgrade PC Black Widow é uma combinação poderosa, destacando-se por uma placa-mãe robusta da linha Black Widow e um processador Ryzen. Com suporte à mais recente tecnologia, a placa-mãe oferece robustez e elegância, enquanto o processador Ryzen proporciona desempenho excepcional para multitarefa e jogos intensivos. Este kit representa uma entrada direta para uma atualização eficiente e potente, transformando seu computador em uma máquina de alto desempenho.",
-    "imagem": "./kitUp.png",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/kitUp.png",
     "avaliacao": 4.9
   },
   {
@@ -44,7 +44,7 @@
     "nome": "Samsung Galaxy S23 Ultra",
     "preco": 4899.99,
     "descricao": "O Samsung Galaxy S23 combina design sustentável com desempenho eficiente. À prova d'água e poeira, o smartphone possui Snapdragon 8 Gen 2 para uso fluido em redes sociais e jogos. O Smart Switch facilita a transferência de dados, inclusive entre diferentes sistemas operacionais. A bateria adaptativa e o display Dynamic AMOLED 2X de 120Hz proporcionam uma experiência de uso otimizada. As câmeras traseiras de até 50 MP com OIS e Zoom Digital de 30x oferecem fotos profissionais, enquanto a câmera frontal de 12 MP garante selfies nítidas. Recursos como Nightography e Super Night Solution aprimoram a qualidade em ambientes noturnos.",
-    "imagem": "./s23u.jpg",
+    "imagem": "https://raw.githubusercontent.com/anginnnn/AngelStoreJSON/main/s23u.jpg",
     "avaliacao": 3.7
   }
 ]
